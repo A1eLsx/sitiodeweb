@@ -1,0 +1,9 @@
+body{
+    background-color: #ff0000;
+}
+p{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(228, 206, 206);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
